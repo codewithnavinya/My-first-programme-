@@ -1,6 +1,15 @@
-# My-first-programme-
-My first python program
-a=input('Number bato jo add karna hai:')
-b=input('Number jasime add karna hai:')
-print(f'{a} + {b} = {int(a) + int(b)}')
-print('appka answer')
+# My First Python Program
+
+This is my first Python code uploaded on GitHub.  
+It takes two numbers from the user and prints their sum.
+
+## Example
+Input:
+5  
+6
+
+Output:
+5 + 6 = 11
+
+## Language
+- Python
