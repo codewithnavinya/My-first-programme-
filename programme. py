@@ -1,4 +1,7 @@
+#Enter your first numer
 a=input('Number bato jo add karna hai:')
+#Enter your second number
 b=input('Number jasime add karna hai:')
 print(f'{a} + {b} = {int(a) + int(b)}')
-print('appka answer')
+#you will get your answer# My First Python Program
+print('apkaa answer upar diya gaya aahe
